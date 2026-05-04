@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "initial poster template"
+git remote add origin https://github.com/madhurtrivedi-arch/retail-one-poster-template.git
+git push origin main
